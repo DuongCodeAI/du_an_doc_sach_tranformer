@@ -2,7 +2,7 @@
 # 🦙✨ Chatbot - Truyện Cổ Tích Việt Nam( faiss + rag + tranformer)
 
 > Dự án xây dựng chatbot hỏi–đáp (QA) về các **truyện cổ tích Việt Nam**, ứng dụng công nghệ **Transformer**, **FAISS**, và **RAG (Retrieval-Augmented Generation)**.
-> Kết hợp sức mạnh giữa **model multilingual-e5-large** để encode dữ liệu và ** model Llama 3.2** để sinh câu trả lời tự nhiên bằng tiếng Việt.
+> Kết hợp sức mạnh giữa **model multilingual-e5-large** để encode dữ liệu và **model Llama 3.2** để sinh câu trả lời tự nhiên bằng tiếng Việt.
 
 ---
 
@@ -156,4 +156,5 @@ Running on local URL: http://127.0.0.1:7860
 * Mở rộng cho **toàn bộ kho truyện cổ tích Việt Nam**.
 * Cho phép **train thêm embedding** tùy chọn.
 * Tích hợp **ghi log hội thoại**, **bộ nhớ ngữ cảnh**, và **tối ưu RAG**.
+
 
