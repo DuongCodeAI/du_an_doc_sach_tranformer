@@ -15,7 +15,6 @@
 * [5️⃣ Hướng dẫn cài đặt & chạy](#5️⃣-hướng-dẫn-cài-đặt--chạy)
 * [6️⃣ Giao diện minh họa](#6️⃣-giao-diện-minh-họa)
 * [7️⃣ Định hướng phát triển](#7️⃣-định-hướng-phát-triển)
-* [8️⃣ Tác giả & liên hệ](#8️⃣-tác-giả--liên-hệ)
 
 ---
 
@@ -156,5 +155,6 @@ Running on local URL: http://127.0.0.1:7860
 * Mở rộng cho **toàn bộ kho truyện cổ tích Việt Nam**.
 * Cho phép **train thêm embedding** tùy chọn.
 * Tích hợp **ghi log hội thoại**, **bộ nhớ ngữ cảnh**, và **tối ưu RAG**.
+
 
 
